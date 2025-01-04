@@ -8,15 +8,15 @@ This ReadMe creator will create a file that contains information entered by the 
 
 Run the program in the console with the command 'node index.js' and answer the following questions:
 
-What is the title of your project?
-What is a description of the project?
-How does one install your project?
-How does one use your project?
-How does one contribute to your project?
-How does one test your project?
-What licesnse does your project use?
-What is your GitHub user name?
-What is your email address? 
+* What is the title of your project?
+* What is a description of the project?
+* How does one install your project?
+* How does one use your project?
+* How does one contribute to your project?
+* How does one test your project?
+* What licesnse does your project use?
+* What is your GitHub user name?
+* What is your email address? 
 
 Video found at https://drive.google.com/file/d/1TZiBQ4X8SApr99r-lCu8XzIE2M9dD9Gq/view
 
