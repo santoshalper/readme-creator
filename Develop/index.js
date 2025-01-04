@@ -37,8 +37,8 @@ const questions = [
     },
     {
         type: 'list',
-        name: 'liscense',
-        message:'What liscense does your project use?',
+        name: 'license',
+        message:'What license does your project use?',
         choices: ['MIT','ISC','Apache','GNU'],
     },
     {
@@ -63,7 +63,15 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer
+        .prompt(questions)
+        .then((data) => {
+            const fileName = 'README.md'
+            const fileData = generateMarkdown(data);
+            writeToFile(fileName,fileData); 
+        });
+}
 
 // Function call to initialize app
 init();

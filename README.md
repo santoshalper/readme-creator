@@ -2,27 +2,24 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This ReadMe creator will create a file that contains information entered by the user. The information that is entered is title of the project, a description of the projected, how to to install the project, how to use the project, how someone can contribute to the project, how to test the project, a selection of 4 possible licenses to uses, the users github account and the users email.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Run the program in the console with the command 'node index.js' and answer the following questions:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+What is the title of your project?
+What is a description of the project?
+How does one install your project?
+How does one use your project?
+How does one contribute to your project?
+How does one test your project?
+What licesnse does your project use?
+What is your GitHub user name?
+What is your email address? 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Video found at https://drive.google.com/file/d/1TZiBQ4X8SApr99r-lCu8XzIE2M9dD9Gq/view
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Vijay Natarajan (github.com/santoshalper)
